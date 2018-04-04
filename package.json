@@ -1,0 +1,19 @@
+{
+  "name": "front_babel",
+  "version": "1.0.0",
+  "description": "Ejercicios del módulo Front Avanzado de BabelCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/100315935/Front_Babel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/100315935/Front_Babel/issues"
+  },
+  "homepage": "https://github.com/100315935/Front_Babel#readme"
+}

@@ -1,2 +1,2 @@
 # Front_Babel
-Ejercicios del módulo Front End
+Ejercicios del módulo Front Avanzado de BabelCamp
